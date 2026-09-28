@@ -95,3 +95,4 @@ update, please report on Cantera's
 - **Shumeng Xie** [@yeanment](https://github.com/yeanment) - National University of Singapore
 - **Chao Xu** [@12Chao](https://github.com/12Chao) - Northeastern University
 - **Thorsten Zirwes** [@g3bk47](https://github.com/g3bk47) - University of Stuttgart
+- **Jeffery Chen** [@GiantWizard](https://github.com/GiantWizard)
